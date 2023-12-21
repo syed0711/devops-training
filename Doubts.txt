@@ -1,0 +1,3 @@
+#Questions / doubts from devops:
+#1. How to push (GIT PUSH) from local system - let's say EC2 AWS to Org, while EC2 to Github user is doable
+#why not ec2 to organization its not letting to push. - Need to check on that
